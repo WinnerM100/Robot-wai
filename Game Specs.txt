@@ -1,0 +1,55 @@
+Grafica - HD
+
+Player perspective - side-view(for platforms).
+		   - top-down(for boss battles).
+
+Initial game type - single player platform.
+
+Main Theme - Robots++.
+
+Music in the game - different songs for each world/planet.
+		  - some generic song in the lobby.
+		  - for some level, the player will have to synchronize his movement in order to pass the level(Rayman Legend).
+
+Menu - level-like options.(using rooms as options to review achivements, select play-modes, levels, etc.).
+
+Levels - Different Worlds/Planets.
+       - Some hidden places in the game.
+
+Main enemies(Bosses) - Fight as a Puzzle.
+
+Player's movement mechanics - Shown in the story, influenced by player progress
+			    - Dash Vertical-down(Jump cancel - ground-pound). Can deal damage to enemies(As a shock wave).
+			    - Dash Horizontally.For a higher level, it can be a nova strike(Deal damage to enemies).
+			    - Can jump on enemies head.
+			    - Life-Bar.Maybe Armor or shield invincibility power-up.
+			    
+Playing schedule - A player needs "fuel" to play.
+		 - The fuel gets refilled once every 5-10 minutes.
+                 - Players can gift some of the items(lives, fuel, etc.) to their friends.
+
+UI - Different canvas for different options/ pages in the menu.
+   - Artwork for canvas elements.
+
+Player Controls - half of the screen for each direction on the horizontal Axis(Ox).
+		- swipe up on the screen for jump.
+		- swipe down on the screen ground-pound("Punish's in the air.").
+
+Check-points - Enemies will respawn after player revive.
+
+Combat - Melee
+       - Don't get used to killing robots. Some level will require stealth/using object from the environment to move.
+       - Some of the enemies will be invincibles/suicidal(An idea of in-game puzzles).
+
+Rewards - Skins.
+	- Daily rewards & challenges.
+	- Medals/room/ship to decorate.
+	- Scrap as a main currency, data-chips as a more valuable one.
+	- Both can be bought for real money.
+	- Achivements will be unlocked in-game.
+	- In the secret rooms, there will be puzzles/objectives to accomplish,in order to obtain currency.
+	- (To be disscused) Secret passes for secret levels to be unlocked/discovered.
+
+Enemies - Pattern Movement.
+	- When you advance more and more in the game, some of them will start to follow you.
+	- 
